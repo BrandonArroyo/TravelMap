@@ -1,0 +1,23 @@
+db.tdetail.insert({
+'Orgin' : 'BOS',
+'Destination' : 'JFK',
+'HotelProperty' : '70 Park Avenue Hotel, a Kimpton',
+'HotHotelNightStay': '7',
+'HotelCheckInDate' : '10/23/2015',
+'HotelCheckOutdate' : '10/30/2015',
+'ExpediaPackagePricePerPerson' : '1729.70',
+'JetBluePackagePricePerPerson' : '1657.41',
+'Savings' : '4.18',
+'Month' : '10',
+'Advance_weeks' : 'within 1 wk'})
+
+
+db.userlist.insert({
+'username' : 'test1',
+'email' : 'test1@test.com',
+'fullname' : 'Bob Smith',
+'age' : 27,
+'location' : 'San Francisco',
+'gender' : 'Male'})
+
+BOS	JFK	70 Park Avenue Hotel, a Kimpton Hotel	7.00	2015/10/23	2015/10/30	1729.70	1657.41	4.18%	10.00	within 1 wk	1

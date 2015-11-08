@@ -1,0 +1,29 @@
+South Carolina  CHS
+Florida         FLL
+New York        JFK
+Nevada          LAS
+California      LAX
+Florida         MCO
+Louisiana       MSY
+Florida         PBI
+Florida         RSW
+California      SAN
+California      SFO
+Florida         TPA
+Massachusetts   BOS
+California      LGB
+
+"Origin":"BOS",
+"Destination":"JFK",
+"Hotel Property":"70 Park Avenue Hotel, a Kimpton Hotel",
+"Hotel Nights Stay":3.00,
+"Hotel Check In Date":"2015/10/21",
+"Hotel Check Out Date":"2015/10/24",
+"Expedia Package Price/Person":1088.73,
+"JetBlue Package Price/Person":991.22,
+"% Savings (Compared to Expedia)":"8.96%",
+"Month":10.00,"Advance_weeks":"within 1 wk",
+"count":1},
+
+
+{'Hotel Property'    : 'Hotel_Property','Hotel Nights' : 'Hotel_Nights','JetBlue Package Price/Person' : 'JetBlue_Package_Price/Person'}
